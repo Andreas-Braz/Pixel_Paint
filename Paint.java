@@ -40,9 +40,6 @@ public class Paint extends Application {
     private static final String BNAME = "Erase";
     
 	public static void main(String[] args) {
-
-		// Start the JavaFX application by calling launch().  
-		// IntellijIdea. Not Communuty, but Ultimate For students is free.
 		launch(args);
 	}
 	 
